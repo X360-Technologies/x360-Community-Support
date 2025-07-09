@@ -1,9 +1,9 @@
 
-# X360 AI – Intelligent Automation Framework
+# x360 AI – Intelligent Automation Framework
 
 ## 📌 Introduction
 
-**X360 AI** is an intelligent test automation platform designed to streamline and scale your QA processes across:
+**x360 AI** is an intelligent test automation platform designed to streamline and scale your QA processes across:
 
 - 🌐 Web
 - 🧪 API
